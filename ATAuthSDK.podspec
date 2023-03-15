@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'RXLineSDK_official'
+  s.name             = 'ATAuthSDK'
   s.version          = '1.0.0'
   s.summary          = 'ruixue toolkit framework.'
 
